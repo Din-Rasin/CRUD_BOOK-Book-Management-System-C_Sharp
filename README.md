@@ -116,7 +116,7 @@ MIT License. See [`LICENSE`](LICENSE) file for details.
 ## 📬 Contact
 
 * GitHub: [Din-Rasin](https://github.com/Din-Rasin)
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* Email: denrasin2917@gmial.com
 
 ---
 
