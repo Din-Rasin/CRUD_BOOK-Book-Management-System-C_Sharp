@@ -1,14 +1,10 @@
-📚 CRUD Book Management System — Screenshot Preview
-<p align="center"> <img src="https://github.com/Din-Rasin/CRUD_BOOK-Book-Management-System-C_Sharp/blob/main/Screenshot%202025-06-28%20163033.png?raw=true" width="600" alt="CRUD Book Management System Screenshot" /> </p>
-Description:
-This screenshot shows the main interface of the Book Management System developed in C#. The system allows users to perform Create, Read, Update, and Delete (CRUD) operations on book records with a clear, user-friendly form. Key features include easy data entry, grid view for listing books, and straightforward navigation buttons for managing the book inventory effectively.
 
 ---
 
 # 📘 CRUD\_BOOK – Book Management System
 
 A simple and powerful **CRUD (Create, Read, Update, Delete)** application for managing books. Built to demonstrate clean architecture, user-friendly interfaces, and efficient data operations. Suitable for students, schools, personal libraries, or small bookshops.
-
+<p align="center"> <img src="https://github.com/Din-Rasin/CRUD_BOOK-Book-Management-System-C_Sharp/blob/main/Screenshot%202025-06-28%20163033.png?raw=true" width="600" alt="CRUD Book Management System Screenshot" /> </p
 ---
 
 ## 🧰 Core Features
