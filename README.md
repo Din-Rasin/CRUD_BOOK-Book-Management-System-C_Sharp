@@ -1,4 +1,7 @@
-professional, and feature-rich `README.md` template for your **`CRUD_BOOK`** project — a CRUD system that manages book records. This description is ideal for educational projects, basic library tools, or admin dashboards, and works well for implementations in **C#, PHP, Laravel, Java, Python, etc.** Let me know your exact tech stack if you'd like me to customize it further.
+📚 CRUD Book Management System — Screenshot Preview
+<p align="center"> <img src="https://github.com/Din-Rasin/CRUD_BOOK-Book-Management-System-C_Sharp/blob/main/Screenshot%202025-06-28%20163033.png?raw=true" width="600" alt="CRUD Book Management System Screenshot" /> </p>
+Description:
+This screenshot shows the main interface of the Book Management System developed in C#. The system allows users to perform Create, Read, Update, and Delete (CRUD) operations on book records with a clear, user-friendly form. Key features include easy data entry, grid view for listing books, and straightforward navigation buttons for managing the book inventory effectively.
 
 ---
 
